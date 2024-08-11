@@ -1,7 +1,9 @@
 ## Hi I'm Taha 👋
 
+- I'm currently pursuing a master's degree in Computer Vision 🔭 at LIVIA, ÉTS. I'm passionate about collaborating on diverse projects in machine learning and computer vision!
 
-**nehdiii/nehdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**nehdiii/nehdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file)appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
