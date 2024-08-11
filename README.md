@@ -2,6 +2,8 @@
 
 - I'm currently pursuing a master's degree in Computer Vision 🔭 at LIVIA, ÉTS. I'm passionate about collaborating on diverse projects in machine learning and computer vision!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehdiii&show_icons=true&theme=transparent)
+
 
 **nehdiii/nehdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file)appears on your GitHub profile.
 
