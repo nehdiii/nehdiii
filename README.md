@@ -1,9 +1,6 @@
 <h2> Hi there, I am Taha Mustapha Nehdi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-[!
-[X Badge](https://img.shields.io/badge/-@Nehdiii-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/TNehdi)
-](https://x.com/TNehdi) 
-
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 
 
