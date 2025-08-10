@@ -7,4 +7,5 @@
 <br />
 
 - I am currently pursuing my PhD in Computer Vision at LIVIA, ÉTS, having transitioned directly from my master’s program.
+- i have publications in top computer vision (CV) conferences
 
