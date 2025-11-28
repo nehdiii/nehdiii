@@ -6,7 +6,7 @@
 
 <br />
 
-- I am currently pursuing my PhD in Computer Vision at LIVIA, ÉTS, having transitioned directly from my master’s program.
+- I am currently pursuing my Master in Computer Vision at LIVIA, ÉTS, having transitioned directly from my master’s program.
 - i have publications in top computer vision (CV) conferences
 
 I am a <b>First-year</b> PhD Candidate at <a href="https://www.etsmtl.ca/">ÉTS Montreal</a>, where I work in the <a href="https://www.etsmtl.ca/en/research/chairs-and-labs/distech-controls">Distech Controls Industrial Research Chair</a> project with an <a href="https://www.mitacs.ca/">MITACS</a> scholarship. I am advised by Professors <a href="https://scholar.google.ca/citations?hl=pt-BR&user=TmfbdagAAAAJ&view_op=list_works&sortby=pubdate">Eric Granger</a> and <a href="https://scholar.google.ca/citations?hl=pt-BR&user=aVfyPAoAAAAJ&view_op=list_works&sortby=pubdate">Marco Pedersoli</a>. My primary research focus is <b>computer vision</b> and <b>machine learning</b>, especially in the areas of <b>Multi-Objects Tracking</b>, <b>Person reId</b>, and <b>domain adaptation</b>. I am also a member of the <a href="https://www.etsmtl.ca/actualites/laboratoire-international-en-ia-voit-le-jour-a-montreal">International Laboratory on Learning Systems (ILLS)</a>. <br> <br>
